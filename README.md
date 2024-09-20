@@ -15,6 +15,8 @@
   <img align="center" alt="MaiconS890-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MaiconS890-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MaiconS890-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="MaiconS890-gif" height="100" width="100"src="https://i.gifer.com/4j.gif">
+  
 </div>
   
   ##
@@ -26,3 +28,5 @@
   <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/maicon-soares-400a21315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+ 
+  
