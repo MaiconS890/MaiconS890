@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalhando no TCC.
-- 🌱 Estudando Desisvolvimentos de Sistemas.
+- 🌱 Estudando Desenvolvimento de Sistemas.
 - 📫 telefone para contato: +55 (11) 97825-3600.
 - 📧 Emai: soaresmaicon879@gmail.com
 
